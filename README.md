@@ -1,4 +1,4 @@
-# combSortSkrrt
+# comb sort 
 Comb Sort (Ascending)
 
 This function will sort an array of integer values in ascending order using the Comb Sort algorithm.
